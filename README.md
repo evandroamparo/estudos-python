@@ -1,4 +1,4 @@
-Meus primeiros estudos na linguagem Python.
+Introdução à linguagem Python.
 
 O conteúdo é baseado na seção de introdução ao Python do curso Machine Learning e Data Science com Python https://www.udemy.com/machine-learning-e-data-science-com-python/
 
